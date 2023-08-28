@@ -1,0 +1,4 @@
+[submodule "xtensa-dynconfig"]
+	path = xtensa-dynconfig
+	url = https://github.com/jcmvbkbc/xtensa-dynconfig
+	branch = original
