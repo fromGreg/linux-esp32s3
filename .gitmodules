@@ -2,3 +2,7 @@
 	path = xtensa-dynconfig
 	url = https://github.com/jcmvbkbc/xtensa-dynconfig
 	branch = original
+[submodule "crosstool-NG"]
+	path = crosstool-NG
+	url = https://github.com/fromGreg/crosstool-NG.git
+	branch = xtensa-fdpic-frozen
