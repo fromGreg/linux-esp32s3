@@ -10,3 +10,7 @@
 	path = buildroot
 	url = https://github.com/fromGreg/buildroot.git
 	branch = xtensa-fdpic-wifi-nfs-frozen
+[submodule "esp-hosted"]
+	path = esp-hosted
+	url = https://github.com/fromGreg/esp-hosted.git
+	branch = shmem-frozen
